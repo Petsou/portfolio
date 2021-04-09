@@ -1,0 +1,55 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: 'Acme', sans-serif;
+}
+
+body{
+
+    background-color: #BDCBD4;
+}
+
+#moi{
+    width: 30%;
+    height: 30%;
+    object-fit: contain;
+    transition: transform .2s;
+    box-shadow: 2px 2px 10px black;
+}
+
+#moi:hover{
+    transform: scale(1.02);
+}
+
+h3{
+    text-decoration: underline;
+}
+
+.card{
+    border: 1px solid black;
+    box-shadow: 2px 2px 5px black;
+    width: 120px;
+    
+}
+
+.sommaire{
+    width:auto;
+    margin-left: 55px;
+    margin-bottom: 50px;
+    padding: 20px 0px 5px 20px;
+    border: 3px solid black;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px black;
+}
+
+.sommaire ul li a{
+    text-decoration: none;
+}
+
+@media only screen and (max-width: 800px){
+
+    #moi{
+        width:80%;
+        height: 80%;
+    }
+}
