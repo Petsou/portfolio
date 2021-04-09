@@ -56,6 +56,9 @@
                     <li class="nav-item">
                         <a class="nav-link" target="_blank" href="https://www.linkedin.com/in/phetsouvan-souvannavong"> <i class="fab fa-linkedin fa-lg"></i> Linkedin</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link" target="_blank" href="https://github.com/Petsou"> <i class="fab fa-github fa-lg"></i> Github</a>
+                    </li>
                 </ul>
             </div>
             </nav>
