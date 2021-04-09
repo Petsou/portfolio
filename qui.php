@@ -15,6 +15,7 @@ require_once(__DIR__."/includes/header.php");
     Étant lassé de cette voie, j'ai entrepris une formation en tant que développeur web et web mobile dans laquelle j'ai pu enfin ressentir de l'épanouissement et du bien-être.</p>
     <p>Étant nouveau dans le milieu du développement web, j'ai encore que très peu d'expérience. Cependant grâce aux acquis de mes précédentes expériences, j'ai pu développer une capacité d'adaptation assez poussée et ainsi assimiler rapidement de nouvelles compétences.</p>
     <p>De ce fait, je serais ravi de pouvoir mettre mes compétences aux services de votre entreprise. N'hésitez donc pas à me contacter !</p>
+    <p>Pour voir un aperçu de mes codes : <a href="https://github.com/Petsou">https://github.com/Petsou</a></p>
 </div>
 
 <div class="container mt-5">
